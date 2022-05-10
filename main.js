@@ -2,7 +2,7 @@ let interrup = document.getElementById("interruptor")
 interrup.addEventListener('click', interruptor)
 
 let cliques = 0
-let estadoLamp = true
+let estadoLamp = false
 let ligada = document.getElementById('ligada')
 let desligada = document.getElementById('apagada')
 
