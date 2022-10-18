@@ -8,6 +8,7 @@
   - Continued development: I have to continue practice how to manipulate DOM. 
 - Author: Natali Marinho. 
 - Acknowledgments: javascript, css and html.
+- Deploy: https://natsmarinho.github.io/flex-turismo/
 
 
 ### The challenge
