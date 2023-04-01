@@ -1,3 +1,11 @@
+<h1 align='center'>ALURABOOKS</h1> 
+
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
+> Status do Projeto: :heavy_check_mark: concluído
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -7,9 +15,7 @@
   - What I learned: I've learned how to manipulate a button and background.
   - Continued development: I have to continue practice how to manipulate DOM. 
 - Author: Natali Marinho. 
-- Acknowledgments: javascript, css and html.
 - Deploy: https://natsmarinho.github.io/lampada/
-
 
 ### The challenge
 
@@ -67,8 +73,9 @@ function interruptor(){
 ## Author
 
 - Frontend Mentor - [@natsmarinho](https://www.frontendmentor.io/profile/natsmarinho)
-- Twitter - [@friidakhalo](https://www.twitter.com/friidakhalo)
+- Twitter - [@natsmarinho](https://www.twitter.com/natsmarinho)
 - Instagram - [@natsmarinho](https://www.instagram.com/natsmarinho/)
+- LinkedIn - [natsmarinho](https://www.linkedin.com/in/natsmarinho/)
 
 ## Acknowledgments
 
